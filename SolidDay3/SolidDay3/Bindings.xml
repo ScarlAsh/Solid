@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<module>
+	<bind service="SolidDay3.ICreditCard" to="SolidDay3.VisaCard" />
+	<bind service="SolidDay3.Shopper" to="SolidDay3.Shopper" />
+</module>
